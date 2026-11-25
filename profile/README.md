@@ -1,39 +1,43 @@
-# MUIN LIMITED
+# Muin Digital Commercial Establishment
 
-**Advancing sustainable agriculture and producing premium sunflower oil for healthier communities.**
+**Trusted digital solutions, e-commerce, and business services in the Kingdom of Saudi Arabia.**
 
-Muin Limited is registered in Zanzibar, Tanzania. We work across Zanzibar Island and Mainland Tanzania to trade, produce, and export sunflower oil, partnering with small-scale farmers and local sunflower oil producers to serve both local and international markets.
+Muin Digital Commercial Establishment is a Saudi establishment working in digital services, e-commerce, technology solutions for businesses, and providing commercial and digital services to clients within the Kingdom and regional markets.
 
 ## Our Mission
 
-To provide premium-quality edible oil that enhances the health and wellbeing of our customers while promoting sustainable practices throughout our production process. We deliver products that meet high standards of purity, freshness, and nutritional value—ensuring customer satisfaction and trust in every drop.
+To provide high-quality digital and commercial solutions that help individuals and organizations grow and achieve digital transformation, while committing to clarity, professionalism, protecting client interests, and delivering a reliable experience in every service.
 
 ## What We Do
 
-- **Sunflower oil production and processing** — From high-quality seeds to carefully filtered oil
-- **Farmer partnerships** — Reliable market access, quality seeds, and technical support
-- **Agricultural technology** — Modern tools and practices that improve productivity
-- **Local and export trade** — Supplying customers across Tanzania and international markets
-- **Community empowerment** — Supporting farming communities and sustainable industrialization
+- **Digital and technical services** — Digital solutions and tools that support businesses
+- **E-commerce** — Enabling buying and selling through digital channels
+- **Trade and commercial services** — Commercial services aligned with the Establishment’s activities
+- **Business solutions** — Supporting organizations in organizing their operations and developing their digital presence
+- **Digital marketing and content management** — Building a clear and effective digital presence
+- **Entrepreneurship and community support** — Encouraging digital initiatives and small projects
 
 ## Our Values
 
-- **Innovation** — Applying better technology and processes to agriculture
-- **Integrity** — Building trust through ethical, transparent operations
-- **Sustainability** — Protecting resources and supporting long-term agricultural growth
-- **Quality** — Maintaining high standards across production and delivery
-- **Customer care** — Responsive service and clear communication
+- **Innovation** — Applying technology and modern solutions to improve services
+- **Integrity** — Building trust through ethical and transparent operations
+- **Sustainability** — Supporting long-term growth and resource efficiency
+- **Quality** — Committing to high standards in execution and delivery
+- **Customer care** — Fast service, clear responsiveness, and effective communication
 
 ## Learn More
 
-- [Visit muin-sa.org](https://muin-sa.org)
-- [About Muin Limited](https://muin-sa.org/#about)
-- [Contact us](https://muin-sa.org/#contact)
+- [Visit the website](https://muin-sa.org)
+- [About us](https://muin-sa.org/about)
+- [Contact us](https://muin-sa.org/contact)
+- Commercial Registration: 7037615395
+- Location: Makkah – Jeddah / Kingdom of Saudi Arabia
+- Email: tech@muin-sa.org
 
 ## Open Source
 
-This GitHub organization hosts MUIN LIMITED's public projects and community resources. Contributions, issue reports, and feedback are welcome in accordance with each repository's guidelines.
+This GitHub organization hosts the public projects and community resources of Muin Digital Commercial Establishment. Contributions, issue reports, and feedback are welcome in accordance with each repository’s guidelines.
 
 ---
 
-© 2026 Muin Limited — Registered in Zanzibar, United Republic of Tanzania
+© 2026 Muin Digital Commercial Establishment — Registered in the Kingdom of Saudi Arabia
